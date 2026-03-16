@@ -24,21 +24,13 @@ This project showcases practical data analysis and business intelligence skills 
 The dataset contains business-related information used to analyze sales performance and trends.
 
 Example Features
-
 Sales
-
 Profit
-
 Category
-
 Sub-Category
-
 Quantity
-
 Customer Segment
-
 Region
-
 Order Date
 
 The dataset is cleaned and then stored in a relational database for further SQL analysis.
@@ -56,61 +48,40 @@ Jupyter Notebook	Data analysis environment
 1️⃣ Data Loading
 
 Imported the dataset using Python (Pandas).
-
 Verified data structure, column names, and data types.
 
 2️⃣ Exploratory Data Analysis (EDA)
 
 Performed detailed analysis to understand the dataset:
-
 Data distribution
-
 Sales trends
-
 Profit patterns
-
 Category performance
-
 Regional performance
-
 Visualizations were created using Matplotlib and Seaborn.
 
 3️⃣ Data Cleaning
 
 The dataset was cleaned to improve data quality:
-
 Handled missing values
-
 Removed duplicate records
-
 Corrected inconsistent formats
-
 Prepared the dataset for analysis
 
 4️⃣ Database Integration
 
 The cleaned dataset was loaded into a SQL database using Python.
-
 Supported databases:
-
-PostgreSQL
-
 MySQL
-
 SQL Server
 
 5️⃣ SQL Analysis
 
 SQL queries were used to analyze business metrics such as:
-
 Total sales by category
-
 Profit by region
-
 Top performing products
-
 Customer segment performance
-
 Discount impact on profitability
 
 📊 Power BI Dashboard
@@ -131,15 +102,10 @@ The dashboard enables users to explore insights interactively.
 📈 Key Results & Insights
 
 Some major insights discovered during analysis:
-
 Identified top-performing product categories
-
 Detected low-profit segments
-
 Analyzed regional sales performance
-
 Found factors affecting profitability
-
 These insights can help businesses improve decision-making and optimize performance.
 
 📑 Reports & Presentation
