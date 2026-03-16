@@ -46,6 +46,7 @@ Gamma	Presentation (PPT)
 Jupyter Notebook	Data analysis environment
 
 ⚙️ Project Workflow
+
 1️⃣ Data Loading
 
 Imported the dataset using Python (Pandas).
