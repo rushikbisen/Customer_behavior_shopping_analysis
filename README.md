@@ -44,6 +44,7 @@ SQL (PostgreSQL / MySQL / SQL Server)	Data querying and analysis
 Power BI	Interactive dashboard creation
 Gamma	Presentation (PPT)
 Jupyter Notebook	Data analysis environment
+
 ⚙️ Project Workflow
 1️⃣ Data Loading
 
