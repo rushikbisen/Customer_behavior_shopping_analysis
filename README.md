@@ -36,13 +36,20 @@ Order Date
 The dataset is cleaned and then stored in a relational database for further SQL analysis.
 
 🛠️ Tools & Technologies
+
 Tool	Purpose
 Python	Data processing & analysis
+
 Pandas / NumPy	Data cleaning and transformation
+
 Matplotlib / Seaborn	Data visualization
+
 SQL (PostgreSQL / MySQL / SQL Server)	Data querying and analysis
+
 Power BI	Interactive dashboard creation
+
 Gamma	Presentation (PPT)
+
 Jupyter Notebook	Data analysis environment
 
 ⚙️ Project Workflow
